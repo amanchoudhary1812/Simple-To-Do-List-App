@@ -41,6 +41,12 @@ A basic to-do list application built using Python and Tkinter. This app helps yo
 4. Use the delete button to remove tasks from the list.
 5. Clear completed tasks with a single click.
 
+
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/a49c8a76-d080-4f9f-8a63-c45fddd8906d)
+
+
 ## Requirements
 
 - Python 3.x
